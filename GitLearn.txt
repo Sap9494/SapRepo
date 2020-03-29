@@ -3,7 +3,14 @@
 
 The fist Change to the file after commit
 
+<<<<<<< HEAD
 The Second change to the file after commit
 
 The 3rd change after commit
 
+=======
+>>>>>>> parent of a4a9636... The 2nd commit
+
+
+The 4th update.
+This change will be reverted after commit! 
